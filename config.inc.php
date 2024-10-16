@@ -23,7 +23,7 @@ $db->addServer(array (
   'host' => 'mysql-moxapi.i.aivencloud.com',
   'port' => 24596,
   'user' => 'avnadmin',
-  'password' => '',
+  'password' => 'AVNS_lHcUqSf37aqhwYJ75ll',
   'charset' => 'utf8mb4',
   'database' => 'blog',
   'engine' => 'InnoDB',
